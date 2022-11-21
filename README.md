@@ -3,6 +3,8 @@ This software (AstrOrz Player) is non-commercial and follows the licenses of all
 No library has been modified, and only the link mode is used to connect the libraries.
 ## About AstrOrz Player
 AstrOrz Player is a free media player software, part based on WMP and VLC.
+The player is in a minimalist style, with more than ten theme colors, and can also be customized. It supports quick opening of folders and m3u.
+It can play most audio and video formats. You can use it as a music player or a video player.
 # Runtime
 Windows(x64), (Windows11 is recommended), .NET 4.6.2，Windows Media Player.
 # Thanks
