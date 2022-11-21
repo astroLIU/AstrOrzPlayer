@@ -5,7 +5,7 @@ AstrOrz Player is a free media player software, part based on WMP and VLC.
 Windows(x64), (Windows11 is recommended), .NET 4.6.2，Windows Media Player.
 # Thanks
 The birth of AstrOrz Player is inseparable from:
-VLC MediaPlayer, MahApp. Metro, BoxIcons, SQLite, Dapper,TagLibSharp
+VLC MediaPlayer, MahApp. Metro, BoxIcons, SQLite, Dapper,TagLibSharp,
 C#. Net, WPF, visual studio, Microsoft and windows media player.
 # Note
 After version 2.2, the interface of this player mainly supports Windows11. If you use Windows10, please select the theme color that suits your title bar.
