@@ -42,7 +42,7 @@ Ver2.1 new: when playing video, you can select the playback speed from the right
 Ver2.2 added: Enter switches to full screen when playing video, and press Esc twice when playing full screen to exit full screen, pause playing, and minimize the window.
 Window state playback Press Esc to pause playback and minimize.
 
-##Shortcut key
+## Shortcut key
 Previous (ctrl+ ← or P), next (ctrl+ → or n), volume (ctrl+ ↑ /ctrl+ ↓), play / pause (space)
 Video full screen (enter|double click), video (ctrl+ ← /ctrl+ →) is 1% step
 next frame (Alt+ →), screenshot (Alt+S) (screenshot under Cap folder)
