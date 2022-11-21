@@ -1,5 +1,5 @@
 # AstrOrzPlayer
-About AstrOrz Player
+## About AstrOrz Player
 AstrOrz Player is a free media player software, part based on WMP and VLC.
 Runtime:Windows(x64), (Windows11 is recommended), .NET 4.6.2，Windows Media Player.
 
