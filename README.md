@@ -22,6 +22,13 @@ The code of this program is confused, which may lead to false alarm of anti-viru
 This software only has the write operation of INI file and SQLite database, which are all in the program folder. Other files are read-only.
 Note: 2.0+ is a known problem. If your computer is installed with GPU-Tweak-III or some special software, playing video may flash back,
 At present, the reason is unknown, and there is no problem in playing the video after shutting down or uninstalling GPU-Tweak-III.
+# About crash
+The code of this program is confused, and there may be anti-virus false positives.
+If you can't open the folder, please add a white list in the anti-virus software.
+Created a "shortcut" and then changed the name of the "shortcut", which may crash.
+Dragging the file directly to exe may cause it to crash, but you can drag it to the "shortcut".
+Individual software causing crashes, such as GPUTweakIII.
+(The above issues are generally caused by antivirus software and Windows security mechanisms)
 # Publish Page
 www.myfav.cn/AstrOrzEN
 ## How to use
