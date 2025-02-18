@@ -30,7 +30,7 @@ Dragging the file directly to exe may cause it to crash, but you can drag it to 
 Individual software causing crashes, such as GPUTweakIII.
 (The above issues are generally caused by antivirus software and Windows security mechanisms)
 # Publish Page
-www.myfav.cn/AstrOrzEN
+https://myfav.cn/AstrOrzEN
 ## How to use
 Click the player icon at the bottom with the left mouse button to open the file,
 Right click the player icon at the bottom to open the menu,
