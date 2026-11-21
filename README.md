@@ -14,7 +14,7 @@ This player aims for a WMP-like feel and is quite well integrated with the Windo
 The player is inspired by Folder Player on Android and can handle folder playback quite well. 
 Due to its minimalistic design, the author did not create complex media library management.
 ## Runtime
-Windows(x64), (Windows11 is recommended), .NET 4.6.2，Windows Media Player.
+Windows(x64), .NET 4.6.2，Windows Media Player.
 ## Thanks
 The birth of AstrOrz Player is inseparable from:
 VLC MediaPlayer, MahApp. Metro, BoxIcons, SQLite, Dapper,TagLibSharp,
