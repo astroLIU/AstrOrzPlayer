@@ -1,4 +1,4 @@
-**Read this in other languages:[English](README.md),[中文](README_zh.md).**
+**Read this in other languages:[English](README.md),[中文](README_zh.md),[日本語](README_jp.md).**
 # AstrOrzPlayer ReadMe
 This software (AstrOrz Player) is non-commercial and follows the licenses of all libraries. 
 No library has been modified, and only the link mode is used to connect the libraries.
