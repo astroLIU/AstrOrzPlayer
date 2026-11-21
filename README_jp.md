@@ -1,4 +1,4 @@
-**その他の言語版:[英語](README.md)、[中国語](README_zh.md)、[日本語](README_jp.md)** 
+**その他の言語版:[English](README.md)、[中文](README_zh.md)、[日本語](README_jp.md)** 
 # AstrOrzPlayer ReadMe
 このソフトウェア(AstrOrz Player)は非商用であり、すべてのライブラリのライセンスに準拠しています。 
 ライブラリは変更されておらず、ライブラリの接続にはリンクモードのみが使用されます。 
