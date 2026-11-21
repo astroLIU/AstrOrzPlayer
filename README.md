@@ -6,6 +6,13 @@ No library has been modified, and only the link mode is used to connect the libr
 AstrOrz Player is a free media player software, part based on WMP and VLC.
 The player is in a minimalist style, with more than ten theme colors, and can also be customized. It supports quick opening of folders and m3u.
 It can play most audio and video formats. You can use it as a music player or a video player.
+The first time the player opens a very large number of files (thousands), the second time it will open much faster. 
+# Author's Note 
+The author likes WMP, but WMP is no longer being updated. Originally, it was a music player, and gradually became a video player. 
+The author enjoys using AstrOrz Player to play music and hopes everyone can treat it as a music player, although it is also a video player. 
+This player aims for a WMP-like feel and is quite well integrated with the Windows system. 
+The player is inspired by Folder Player on Android and can handle folder playback quite well. 
+Due to its minimalistic design, the author did not create complex media library management.
 # Runtime
 Windows(x64), (Windows11 is recommended), .NET 4.6.2，Windows Media Player.
 # Thanks
