@@ -2,19 +2,19 @@
 # AstrOrzPlayer ReadMe
 该软件（AstrOrz Player）为非商业软件，遵循所有库的许可。
 没有修改过任何库，仅使用链接模式连接库。
-## 关于 AstrOrz 玩家
+## 关于 AstrOrz Player
 AstrOrz Player 是一款免费的媒体播放器软件，部分基于 WMP 和 VLC。
 玩家采用极简风格，拥有十多种主题色，并且可以自定义。支持快速打开文件夹和 m3u。
 它可以播放大多数音频和视频格式。你可以把它当作音乐播放器或视频播放器使用。
-# 运行时间
-Windows（x64）（推荐使用 Windows11）、.NET 4.6.2、Windows Media Player。
+# 运行时
+Windows（x64）、.NET 4.6.2、Windows Media Player。
 # 谢谢
 AstrOrz Player的诞生与以下因素密不可分：
 VLC MediaPlayer、MahApp。Metro、BoxIcons、SQLite、Dapper、TagLibSharp，
 C#.Net、WPF、Visual Studio、Microsoft 和 Windows Media Player。
 # 注
 2.2 版本之后，该播放器的界面主要支持 Windows 11。如果你使用 Windows10，请选择适合你标题栏的主题颜色。
-# 这位玩家能做什么？
+# 这个播放器能做什么？
 它是一款音乐和视频播放器。你可以用它播放音乐和视频。
 它可以自动将文件夹和 M3U 文件保存到下拉列表中，这样你下次就能快速打开播放列表。
 你也可以直接拖动文件和文件夹来播放。
