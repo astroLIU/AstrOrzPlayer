@@ -15,29 +15,29 @@ The player is inspired by Folder Player on Android and can handle folder playbac
 Due to its minimalistic design, the author did not create complex media library management.
 ## Runtime
 Windows(x64), (Windows11 is recommended), .NET 4.6.2，Windows Media Player.
-# Thanks
+## Thanks
 The birth of AstrOrz Player is inseparable from:
 VLC MediaPlayer, MahApp. Metro, BoxIcons, SQLite, Dapper,TagLibSharp,
 C#. Net, WPF, visual studio, Microsoft and windows media player.
-# Note
+## Note
 After version 2.2, the interface of this player mainly supports Windows11. If you use Windows10, please select the theme color that suits your title bar.
-# What can this player do?
+## What can this player do?
 It is a music and video player. You can play music and video with it.
 It can automatically save folders and M3U files to the drop-down list, so that you can quickly open the playlist next time.
 You can also drag files and folders directly to play.
-# About security
+## About security
 The code of this program is confused, which may lead to false alarm of anti-virus.
 This software only has the write operation of INI file and SQLite database, which are all in the program folder. Other files are read-only.
 Note: 2.0+ is a known problem. If your computer is installed with GPU-Tweak-III or some special software, playing video may flash back,
 At present, the reason is unknown, and there is no problem in playing the video after shutting down or uninstalling GPU-Tweak-III.
-# About crash
+## About crash
 The code of this program is confused, and there may be anti-virus false positives.
 If you can't open the folder, please add a white list in the anti-virus software.
 Created a "shortcut" and then changed the name of the "shortcut", which may crash.
 Dragging the file directly to exe may cause it to crash, but you can drag it to the "shortcut".
 Individual software causing crashes, such as GPUTweakIII.
 (The above issues are generally caused by antivirus software and Windows security mechanisms)
-# Publish Page
+## Publish Page
 https://github.com/astroLIU/AstrOrzPlayer/
 ## How to use
 Click the player icon at the bottom with the left mouse button to open the file,
