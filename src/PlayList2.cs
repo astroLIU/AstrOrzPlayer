@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel;
 namespace AstrOrzPlayer
 {
-    public class PlayList2: INotifyPropertyChanged//排序后没用
+    public class PlayList2: INotifyPropertyChanged
     {
         public PlayList2()
         {
