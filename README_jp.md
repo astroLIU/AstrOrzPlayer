@@ -15,6 +15,8 @@ AstrOrz Playerは、WMPとVLCを一部ベースにした無料のメディアプ
 簡素化のため、著者は複雑なメディアライブラリ管理を行っていませんでした。 
 ## ランタイム
 Windows(x64)、.NET 4.6.2、Windows Media Player。 
+## 多言語
+AstrOrz Playerは、英語、中国語、日本語、ドイツ語、フランス語、イタリア語、スペイン語、ポルトガル語、ロシア語、韓国語の10言語に対応しています。
 ## ありがとうございます
 AstrOrz Playerの誕生は以下の要因と密接に関連しています: 
 VLC MediaPlayer、MahApp。Metro、BoxIcons、SQLite、Dapper、TagLibSharp、 
