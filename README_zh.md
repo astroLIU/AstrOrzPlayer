@@ -15,6 +15,8 @@ AstrOrz Player 是一款免费的媒体播放器软件，部分基于 WMP 和 VL
 因为极简化的原因，作者没有做复杂的媒体库管理。
 ## 运行时
 Windows（x64）、.NET 4.6.2、Windows Media Player。
+## 多语言
+AstrOrz Player 有10种语言，分别为English、中文、日本語、Deutsch、Français、Italiano、Español、Português、русский язык、한국어。
 ## 谢谢
 AstrOrz Player的诞生与以下因素密不可分：
 VLC MediaPlayer、MahApp。Metro、BoxIcons、SQLite、Dapper、TagLibSharp，
