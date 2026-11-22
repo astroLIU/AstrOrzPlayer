@@ -15,6 +15,8 @@ The player is inspired by Folder Player on Android and can handle folder playbac
 Due to its minimalistic design, the author did not create complex media library management.
 ## Runtime
 Windows(x64), .NET 4.6.2，Windows Media Player.
+## Multilingual
+AstrOrz Player is available in 10 languages: English, Chinese, Japanese, German, French, Italian, Spanish, Portuguese, Russian, and Korean.
 ## Thanks
 The birth of AstrOrz Player is inseparable from:
 VLC MediaPlayer, MahApp. Metro, BoxIcons, SQLite, Dapper,TagLibSharp,
