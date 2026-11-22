@@ -1,1 +1,4 @@
 Everything except the WPF frontend and the main window's code is here.
+The WPF frontend is kind of like a webpage, and the author put it together using user controls. 
+The main window's code is about 5000 lines, and the author wrote it pretty messy. 
+Once the author tidies it up, it might be open-sourced in the future.
