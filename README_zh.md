@@ -1,3 +1,4 @@
+![social image](https://raw.githubusercontent.com/astroLIU/AstrOrzPlayer/main/images/AstrOrzPlayer.jpeg)
 **其它语言版本:[English](README.md)、[中文](README_zh.md)、[日本語](README_jp.md).**
 # AstrOrzPlayer ReadMe
 该软件（AstrOrz Player）为非商业软件，遵循所有库的许可。
