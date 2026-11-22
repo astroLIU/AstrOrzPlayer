@@ -31,7 +31,6 @@ namespace AstrOrzPlayer
         public static string MD5Decrypt(string pToDecrypt, string sKey)
         {
             DESCryptoServiceProvider des = new DESCryptoServiceProvider();
-
             byte[] inputByteArray = new byte[pToDecrypt.Length / 2];
             for (int x = 0; x < pToDecrypt.Length / 2; x++)
             {
@@ -44,9 +43,7 @@ namespace AstrOrzPlayer
             CryptoStream cs = new CryptoStream(ms, des.CreateDecryptor(), CryptoStreamMode.Write);
             cs.Write(inputByteArray, 0, inputByteArray.Length);
             cs.FlushFinalBlock();
-
             StringBuilder ret = new StringBuilder();
-
             return System.Text.Encoding.Default.GetString(ms.ToArray());
         }
         public static string ROT13Encode(string InputText)
